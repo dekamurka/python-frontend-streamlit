@@ -1,4 +1,0 @@
-streamlit
-random
-string (ascii_letters, digits, punctuation)
-requests
